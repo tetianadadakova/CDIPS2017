@@ -1,2 +1,3 @@
 # CDIPS2017
-2017 CDIPS Data Science Workshop, UC Berkeley
+
+Presentation 2017CDIPS_WorkshopPresentation.pdf summarizes the work our team did during a three-weeks CDIPS Data Science Workshop at UC Berkeley.
